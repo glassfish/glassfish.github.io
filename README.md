@@ -1,2 +1,2 @@
 # glassfish.github.io
-Coming soon...
+Coming soon
